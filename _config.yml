@@ -6,26 +6,36 @@
 plugin:
 - hexo-generator-feed
 - hexo-generator-sitemap
+- hexo-generator-baidu-sitemap
 
 sitemap:
   path: sitemap.xml
 
+baidusitemap:
+  path: baidusitemap.xml
+
 feed:
   path: atom.xml
-
+  
 # Swiftype
 swiftype_key: Dkat1UNkmWS1W8VdUxyM
 
 # Comment
 duoshuo_shortname: yrsf
 
+# Share
+duoshuo_share: true
+
+# Analytic
+baidu_analytics: a6ee329063f88a5b087dda6dc3ed8bc8
+
 # Social
 social:
   GitHub: https://github.com/yrsf
-
+  
 social_icons:
   enable: true
-  GitHub: github
+  GitHub: github	  
   
 # Avatar
 avatar: /images/avatar.jpg
@@ -42,7 +52,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
