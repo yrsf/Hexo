@@ -6,5 +6,7 @@ category:
 - Draft
 tags:
 - Untag
+thumbnail: https://
+lede: ""
 ---
 <!--more-->
