@@ -1,17 +1,13 @@
 ---
 title: Hello, Blog!
 category:
-  - 
 tags:
-  - Hexo
-  - Blog
 date: 2016-05-20 14:53:18
 updated: 2016-05-20 14:53:18
 thumbnail: https://
 lede:
 ---
 <!--more-->
-
 ## 要有博客，就有了博客!
 
 软件是快速进化的领域。设计开发需要与时俱进
