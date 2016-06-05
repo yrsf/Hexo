@@ -110,7 +110,7 @@ $ npm install hexo-deployer-git –save
 ### 安装第三方服务
 - 评论系统： [**多说**](https://theme-next.iissnan.com/third-party-services.html#duoshuo)
 - 内容分享： [**多说**](https://theme-next.iissnan.com/third-party-services.html#share-duoshuo)
-- 站内搜索： [**Swiftype**](https://theme-next.iissnan.com/third-party-services.html#swiftype)
+- 站内搜索： [**微搜索**](https://theme-next.iissnan.com/third-party-services.html#swiftype)
 - 数据统计与分析： [**LeanCloud**](https://zhuweisheng.com.cn/technology/leancloud-counter/)
 - 站点地图： [**sitemap**](http://www.arao.me/2015/hexo-next-theme-optimize-seo/)
 

@@ -7,6 +7,12 @@ plugin:
 - hexo-generator-feed
 - hexo-generator-sitemap
 - hexo-generator-baidu-sitemap
+- hexo-generator-search
+
+# search
+search:
+  path: search.xml
+  field: post
 
 # sitemap
 sitemap:
@@ -20,7 +26,7 @@ feed:
   path: atom.xml
   
 # Swiftype
-swiftype_key: Dkat1UNkmWS1W8VdUxyM
+#swiftype_key: Dkat1UNkmWS1W8VdUxyM
 
 # Comment
 duoshuo_shortname: yrsf
