@@ -1,0 +1,15 @@
+# Robots Exclusion Protocol
+
+User-agent: *
+Allow: /
+Allow: /archives/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: http://yrsf.github.io/sitemap.xml
+Sitemap: http://yrsf.github.io/baidusitemap.xml

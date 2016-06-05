@@ -131,6 +131,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
+  LinkedIn: linkedin
   Twitter: twitter
   Weibo: weibo
 
@@ -320,7 +321,7 @@ baidu_push: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: false
+use_motion: true
 
 # Fancybox
 fancybox: true
